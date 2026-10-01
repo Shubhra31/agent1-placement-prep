@@ -16,7 +16,7 @@ st.set_page_config(
 # -----------------------------
 # Title
 # -----------------------------
-st.title("🎯 AI Placement Assistant")
+st.title("AI Placement Assistant")
 
 st.write(
     "Your AI assistant for placement preparation, "
